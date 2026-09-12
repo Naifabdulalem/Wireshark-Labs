@@ -13,7 +13,7 @@ http.request.method == "GET"
 
 I noticed that `172.16.8.49` was communicating with several IP addresses that matched the C2 IPs from the alerts. So I identified it as the infected host.  
 
-![](images/Pasted image 20260912002810.png)
+![](images/01-http.png)
 
 ## 2. Finding the MAC Address
 
@@ -37,7 +37,7 @@ I then used this filter to investigate the device's traffic:
 eth.addr == 00:12:f0:28:d4:34
 ```
 
-![](images/Pasted image 20260912004426.png)
+![](images/02-mac.png)
 
 ## 3. Finding the Hostname
 
@@ -57,7 +57,7 @@ DESKTOP-5NLV63K
 
 So the hostname is **DESKTOP-5NLV63K**.
 
-![](images/Pasted image 20260912013841.png)
+![](images/03-hostname.png)
 
 
 
@@ -78,7 +78,7 @@ CNameString: rvance
 ```
 
 The computer account also appeared as `desktop-5nlv63k$`, but the `$` indicates a computer account. Therefore, **rvance** is the actual user account.
-![](images/Pasted image 20260912005643.png)
+![](images/04-username.png)
 
 ## 5. Finding the Full Name
 
@@ -97,7 +97,7 @@ Account Name: rvance
 Full Name: Raymond Vance
 ```
 
-![](images/Pasted image 20260912011953.png)
+![](images/05-fullname.png)
 
 
 
