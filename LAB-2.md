@@ -11,7 +11,7 @@ This filter helped me find the HTTP GET requests from the infected machine. I th
 
 **IP Address:** `10.9.11.135`  
 **MAC Address:** `08:d4:0c:7a:29:1e`
-![IP and MAC](images/06-ip-mac.png)
+![IP and MAC](06-ip-mac.png.png)
 
 
 
