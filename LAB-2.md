@@ -37,7 +37,7 @@ So the Windows user account name is:
 
 **`gmcdowell`**
 
-![Username](images/07-username.png)
+![Username](https://raw.githubusercontent.com/Naifabdulalem/Wireshark-Labs/main/images/07-username.png)
 
 
 ## Task 4 – Identify the Full Name of the User
@@ -64,7 +64,7 @@ So the full name of the user is:
 **Gabriel McDowell**
 
 
-![Full Name](images/08-fullname.png)
+![Full Name](https://raw.githubusercontent.com/Naifabdulalem/Wireshark-Labs/main/images/08-fullname.png)
 
 
 
