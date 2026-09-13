@@ -11,7 +11,7 @@ This filter helped me find the HTTP GET requests from the infected machine. I th
 
 **IP Address:** `10.9.11.135`  
 **MAC Address:** `08:d4:0c:7a:29:1e`
-![[Pasted image 20260913091026.png]]
+![IP and MAC](images/06-ip-mac.png)
 
 
 
@@ -37,7 +37,7 @@ So the Windows user account name is:
 
 **`gmcdowell`**
 
-![[Pasted image 20260913091554.png]]
+![Username](images/07-username.png)
 
 
 ## Task 4 – Identify the Full Name of the User
@@ -64,7 +64,7 @@ So the full name of the user is:
 **Gabriel McDowell**
 
 
-![[Pasted image 20260913092436.png]]
+![Full Name](images/08-fullname.png)
 
 
 
