@@ -24,7 +24,7 @@ From the results, I noticed that `10.2.28.88` was repeatedly sending traffic to 
 After identifying the infected IP, I checked the packet details to find information about the network interface of this computer. In the Ethernet II section, the source MAC address was shown as:
 
 **MAC address: `00:19:d1:b2:4d:ad`**
-![[lab3-image1.png]]
+![MAC address and ip address](images/lab3-image1.png)
 
 
 ## Question 3: What is the hostname of the infected Windows client?
@@ -43,7 +43,7 @@ The hostname was:
 
 This identifies the name of the infected Windows computer.
 
-![[lab3-image4.png]]
+![Hostname](images/lab3-image3.png)
 
 
 ## Question 4: What is the Windows user account name?
@@ -60,7 +60,7 @@ The `CNameString` field in the Kerberos packet contains the account name. After 
 
 Therefore, `brolf` is the Windows user account associated with the infected computer.
 
-![[lab3-image3.png]]
+![User account](images/lab3-image4.png)
 
 
 ## Question 5: What is the full name of the user?
@@ -77,4 +77,4 @@ Inside the packet details, I found the **Full Name** field:
 
 **Full name: `Becka Rolf`** 
 
-![[lab3-image5.png]]
+![Full name](images/lab3-image5.png)
