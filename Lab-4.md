@@ -176,4 +176,4 @@ Host name: DESKTOP-ES9F3ML
 MAC address: 00:21:5d:c8:0e:f2
 Windows user account name: gwyatt
 Full name of the user: Gabriel Wyatt
-Domain name: Whitepepper
+Domain name: Whitepepper** 
