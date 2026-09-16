@@ -60,7 +60,7 @@ MAC Address: 00:21:5d:c8:0e:f2
 ```
 
 
-![Lab 4 - IP and MAC](Images/lab4-1.png)
+![Lab 4 - IP and MAC](images/lab4-1.png)
 
 
 ## Question 3: What is the hostname of the infected Windows client?
@@ -87,7 +87,7 @@ So:
 Hostname: DESKTOP-ES9F3ML
 ```
 
-![Lab 4 - Hostname](Images/lab4-2.png)
+![Lab 4 - Hostname](images/lab4-2.png)
 
 ## Question 4: What is the user account name?
 
@@ -113,7 +113,7 @@ Therefore, the Windows account name is:
 gwyatt
 ```
 
-![Lab 4 - Username](Images/lab4-3.png)
+![Lab 4 - Username](images/lab4-3.png)
 
 ## Question 5: What is the full name of the user?
 
@@ -133,10 +133,10 @@ Full Name: Gabriel Wyatt
 ```
 
 **1.By filters** 
-![Lab 4 - Full Name](Images/lab4-4.png)
+![Lab 4 - Full Name](images/lab4-4.png)
 
 **2.By rules**  
-![Lab 4 - Full Name](Images/lab4-5.png)
+![Lab 4 - Full Name](images/lab4-5.png)
 
 ## Question 6: What is the domain from 153.92.1.49?
 
@@ -167,7 +167,7 @@ So the domain I found was:
 ```
 whitepepper.su
 ```
-![Lab 4 - Domain](Images/lab4-6.png)
+![Lab 4 - Domain](images/lab4-6.png)
 
 
 **Victim Details:
