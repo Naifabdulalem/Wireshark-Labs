@@ -170,7 +170,7 @@ whitepepper.su
 ![Lab 4 - Domain](images/lab4-6.png)
 
 
-**Victim Details:
+Victim Details:
 IP address: 10.1.28[.]58
 
 Host name: DESKTOP-ES9F3ML
@@ -181,4 +181,4 @@ Windows user account name: gwyatt
 
 Full name of the user: Gabriel Wyatt
 
-Domain name: Whitepepper** 
+Domain name: Whitepepper 
