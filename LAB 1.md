@@ -1,5 +1,5 @@
 
-**Question:** [Malware Traffic Analysis — 2026-08-09](https://www.malware-traffic-analysis.net/2026/08/09]
+**Question:** [Malware Traffic Analysis — 2026-08-09](https://www.malware-traffic-analysis.net/2026/08/09)
 
 ## 1. Finding the infected IP
 
